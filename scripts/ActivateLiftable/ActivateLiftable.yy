@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ActivateLiftable",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ActivateLiftable",
+  "parent":{
+    "name":"Activation",
+    "path":"folders/Scripts/Activation.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
